@@ -23,7 +23,9 @@ jobs:
         with:
           github_user_name: Niharika-Sahay
           # outputs: dist/snake.svg?palette=github-dark
-          outputs: dist/snake.svg?color_snake=3D365C&color_dots=FEC5F6,DB8DD0,C562AF,B33791,E83C91
+          color_snake: 3D365C
+          color_dots: FEC5F6,DB8DD0,C562AF,B33791,E83C91
+          outputs: dist/snake.svg
     
 
       - name: push snake.svg to the output branch
