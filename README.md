@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="100" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/666d3b4c36d9a8494cf363f602b7f157611e1867/avatar.jpg"  />
+<img align="right" height="100" width="200" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/666d3b4c36d9a8494cf363f602b7f157611e1867/avatar.jpg"  />
 
 ###
 
@@ -69,7 +69,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
+  <img height="200" width=" 500" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
 </div>
 
 ###
