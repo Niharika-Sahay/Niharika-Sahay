@@ -6,9 +6,7 @@
 
 <p align="left">I build smooth UI, overthink micro-interactions, and debug like it’s a competitive sport.</p>
 
-###
-
-<img align="right" height="100" width="100" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/666d3b4c36d9a8494cf363f602b7f157611e1867/avatar.jpg"  />
+<p align="left">🌊 Building towards: Natural Language Database Interaction with LLMs and MCP<br>🪞 Currently refining: React patterns<br>🗺️ Exploring next: Sentiment Prediction API Using FastAPI and X<br>🧪 Experimenting with: Build a Basic Calculator App Using Android Studio<br>⚡ Energy type:</p>
 
 ###
 
@@ -69,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="200" width=" 500" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
+  <img height="200" width=" 1000" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
 </div>
 
 ###
