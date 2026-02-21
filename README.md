@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img height="400" width=" 1000" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
+  <img height="300" width=" 1000" src="https://github.com/Niharika-Sahay/Niharika-Sahay/blob/d6d54c41a0a31a48d75450687cd5295b64a07eaf/bottom.jpg"  />
 </div>
 
 ###
