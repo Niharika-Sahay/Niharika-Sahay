@@ -6,7 +6,7 @@
 
 <p align="left">I build smooth UI, overthink micro-interactions, and debug like it’s a competitive sport.</p>
 
-<p align="left">🌊 Building towards: Natural Language Database Interaction with LLMs and MCP<br>🪞 Currently refining: React patterns<br>🗺️ Exploring next: Sentiment Prediction API Using FastAPI and X<br>🧪 Experimenting with: Build a Basic Calculator App Using Android Studio<br>⚡ Energy type:</p>
+<p align="left">🌊 Building towards: Natural Language Database Interaction with LLMs and MCP<br>🪞 Currently refining: React patterns<br>🗺️ Exploring next: Sentiment Prediction API Using FastAPI and X<br>🧪 Experimenting with: Build a Basic Calculator App Using Android Studio<br>⚡ Energy type: Dev Mode</p>
 
 ###
 
